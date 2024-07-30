@@ -1,0 +1,31 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-16/e203eb05d4685efc6987170a7e0114b2",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8,
+        16
+      ],
+      "width": 256
+    }
+  ],
+  "width": 2400,
+  "height": 4300,
+  "sizes": [
+    {
+      "width": 168,
+      "height": 300
+    },
+    {
+      "width": 1116,
+      "height": 2000
+    }
+  ]
+}
