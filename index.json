@@ -9,7 +9,7 @@
     },
     "thumbnail": [
         {
-            "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-16/e203eb05d4685efc6987170a7e0114b2/full/167,300/0/default.jpg",
+            "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/e2c33f5a27a06b424167919b96173970/full/167,300/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 300,
@@ -17,6 +17,15 @@
         }
     ],
     "items": [
+        {
+            "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "2008, May 30 - The Bremond Press"
+                ]
+            }
+        },
         {
             "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-16/manifest.json",
             "type": "Manifest",

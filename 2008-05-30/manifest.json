@@ -1,0 +1,280 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "2008, May 30 - The Bremond Press"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "The Bremond Press"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2008-05-30"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Issue"
+                ]
+            }
+        }
+    ],
+    "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+    "thumbnail": [
+        {
+            "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/e2c33f5a27a06b424167919b96173970/full/undefined,undefined/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/canvas/1",
+            "type": "Canvas",
+            "height": 1548,
+            "width": 864,
+            "label": {
+                "none": [
+                    "tbp5-30-08_01"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/e2c33f5a27a06b424167919b96173970/full/undefined,undefined/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/canvas/1",
+                            "body": {
+                                "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/e2c33f5a27a06b424167919b96173970/full/undefined,undefined/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/canvas/2",
+            "type": "Canvas",
+            "height": 1548,
+            "width": 864,
+            "label": {
+                "none": [
+                    "tbp5-30-08_02"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/8170371f585fe5f163e4a4114ae49053/full/undefined,undefined/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/canvas/2",
+                            "body": {
+                                "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/8170371f585fe5f163e4a4114ae49053/full/undefined,undefined/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/canvas/3",
+            "type": "Canvas",
+            "height": 1548,
+            "width": 864,
+            "label": {
+                "none": [
+                    "tbp5-30-08_03"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/2873a1aff10a30649aaca878c92c7707/full/undefined,undefined/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/canvas/3/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/canvas/3/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/canvas/3",
+                            "body": {
+                                "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/2873a1aff10a30649aaca878c92c7707/full/undefined,undefined/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/canvas/4",
+            "type": "Canvas",
+            "height": 1548,
+            "width": 864,
+            "label": {
+                "none": [
+                    "tbp5-30-08_04"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/6420f43565f71e40e67b4ee3a1988e42/full/undefined,undefined/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/canvas/4/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/canvas/4/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/canvas/4",
+                            "body": {
+                                "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/6420f43565f71e40e67b4ee3a1988e42/full/undefined,undefined/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/canvas/5",
+            "type": "Canvas",
+            "height": 1548,
+            "width": 864,
+            "label": {
+                "none": [
+                    "tbp5-30-08_05"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/fd7c9458a60ff556a1deff826b08a0db/full/undefined,undefined/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/canvas/5/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/canvas/5/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/canvas/5",
+                            "body": {
+                                "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/fd7c9458a60ff556a1deff826b08a0db/full/undefined,undefined/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/canvas/6",
+            "type": "Canvas",
+            "height": 1548,
+            "width": 864,
+            "label": {
+                "none": [
+                    "tbp5-30-08_06"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/1cf91cc13390858d673fc271b4a6e47a/full/undefined,undefined/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/canvas/6/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/canvas/6/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/canvas/6",
+                            "body": {
+                                "id": "https://markpbaggett.github.io/tropy-static-iiif/2008-05-30/1cf91cc13390858d673fc271b4a6e47a/full/undefined,undefined/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
